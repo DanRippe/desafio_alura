@@ -1,0 +1,54 @@
+mkdir - make directory
+mkdir repositorios
+# cria uma pasta denominada "repositorios"
+
+type codigo.js
+# mostra o conteúdo de um arquivo
+
+help move
+# help seguido de um comando apresenta uma ajuda de como utilizar o comando
+
+move codigo.js .\repositorios\JavaScript
+# move um determinado arquivo para uma pasta especificada
+
+*Tecla TAB
+# navega entre as opções de auto-preenchimento
+
+more
+# o comando "more" é semelhante ao "type", mas mostra página por página de um arquivo ao invés de mostrá-lo integralmente
+
+copy imagem.png imagem2.png
+# cria uma cópia de um arquivo, onde o primeiro argumento é o arquivo original e o segundo é nome que a cópia receberá
+
+rename imagem2.png imagem-backup.png
+# renomeia um arquivo, incluindo sua extensão. Também pode ser utilizado para renomear pastas
+
+del - delete
+del *.png
+# o comando deleta todos os arquivos que terminam com a extensão .png
+
+cls - clear screen
+# limpa tudo que foi imprimido na sessão atual do cmd
+
+fc - file compare
+fc a.txt b.txt
+# compara dois arquivos ou grupos de arquivos e retorna a diferença entre eles
+
+systeminfo
+# mostra informações em detalhes sobre o Windows instalado na máquina
+
+rmdir - remove directory
+# ao contrário do comando "mkdir" este remove um diretório. O comando "del" também pode ser usado para tal finalidade
+
+shutdown
+# desliga o computador de forma imediata ou agendada
+
+date
+# exibe a data atual e permite alterá-la
+
+find "triste" exemplo.txt
+# busca um texto em um arquivo
+
+exit
+# fecha o cmd
+
