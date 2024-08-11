@@ -52,4 +52,4 @@ find "triste" exemplo.txt
 exit
 # fecha o cmd
 
-#causando conflito
+#causando conflito 2
