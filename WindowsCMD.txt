@@ -51,3 +51,5 @@ find "triste" exemplo.txt
 
 exit
 # fecha o cmd
+
+buguei tudo kkkkk
